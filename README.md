@@ -8,4 +8,4 @@ An Arm assembly language routine, which describes the fucntionality of a chess c
 
 ## More
 
-For more detailed information, please see the project report.
+For more detailed information, please see the project [report](https://github.com/cppavel/IntroToComputingFinalAssignment/blob/master/AssignmentCSU11022.pdf).
